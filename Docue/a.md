@@ -14,6 +14,6 @@ Second letter "L" refers to applicable that is applicable to all.
 
 Third letter "A" refers to any class that is applicable to all.
 
-Fourth letter "N" refers to unit live that is applicable to all.
+Fourth letter "N" refers to unit human that is applicable to all.
 
 Fifth letter "A" refers to included any that is applicable to all.
